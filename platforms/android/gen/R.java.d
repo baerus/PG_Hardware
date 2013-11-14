@@ -1,4 +1,4 @@
-D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\gen\de\mfischer\database\R.java \
+D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\gen\de\mfischer\hardware\R.java \
  : D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\res\drawable\icon.png \
 D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\res\drawable-hdpi\icon.png \
 D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\res\drawable-ldpi\icon.png \

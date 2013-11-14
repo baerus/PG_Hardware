@@ -12,13 +12,12 @@
         <param name="android-package" value="org.apache.cordova.App" />
     </feature>
     <plugin name="Camera" value="org.apache.cordova.CameraLauncher" />
-    <access origin="http://127.0.0.1*" />
     <preference name="useBrowserHistory" value="true" />
     <preference name="exit-on-suspend" value="false" />
+    <preference name="phonegap-version" value="3.1.0" />
     <preference name="permissions" value="none" />
     <preference name="orientation" value="default" />
     <preference name="target-device" value="universal" />
-    <preference name="fullscreen" value="true" />
     <preference name="webviewbounce" value="true" />
     <preference name="prerendered-icon" value="true" />
     <preference name="stay-in-webview" value="false" />

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="de.mfischer.database"
-        version="1.0.0"
+<widget id="de.mfischer.hardware"
+        version="1.0.1"
         xmlns="http://www.w3.org/ns/widgets"
         xmlns:gap="http://phonegap.com/ns/1.0">
 
@@ -11,11 +11,12 @@
     <author>
         mfischer
     </author>
-    <!-- <feature name="http://api.phonegap.com/1.0/device" /> -->
-    <!-- <preference name="permissions" value="none" /> -->
+    <feature name="http://api.phonegap.com/1.0/device" />
+    <feature name="http://api.phonegap.com/1.0/camera"/>
+    <preference name="phonegap-version" value="3.1.0" />
+    <preference name="permissions" value="none" />
     <preference name="orientation" value="default" />
     <preference name="target-device" value="universal" />
-    <!--<preference name="fullscreen" value="true" /> -->
     <preference name="webviewbounce" value="true" />
     <preference name="prerendered-icon" value="true" />
     <preference name="stay-in-webview" value="false" />
@@ -52,7 +53,7 @@
     <gap:splash gap:platform="ios" height="768" src="res/screen/ios/screen-ipad-landscape.png" width="1024" />
     <gap:splash gap:platform="winphone" src="res/screen/windows-phone/screen-portrait.jpg" />
 
-    <!--
+
     <gap:plugin name="org.apache.cordova.camera" />
     <gap:plugin name="Accelerometer" value="org.apache.cordova.AccelListener" />
     <gap:plugin name="Camera" value="org.apache.cordova.CameraLauncher" />
@@ -71,7 +72,7 @@
     <gap:plugin name="Notification" value="org.apache.cordova.Notification"/>
     <gap:plugin name="SplashScreen" value="org.apache.cordova.SplashScreen"/>
     <gap:plugin name="Storage" value="org.apache.cordova.Storage" />
-    -->
+
 
     <access origin="http://127.0.0.1*" />
     <content src="index.html" />

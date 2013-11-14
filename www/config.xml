@@ -12,7 +12,6 @@
         mfischer
     </author>
     <feature name="http://api.phonegap.com/1.0/device" />
-    <feature name="http://api.phonegap.com/1.0/camera"/>
     <preference name="phonegap-version" value="3.1.0" />
     <preference name="permissions" value="none" />
     <preference name="orientation" value="default" />
@@ -54,6 +53,7 @@
     <gap:splash gap:platform="winphone" src="res/screen/windows-phone/screen-portrait.jpg" />
 
 
+    <!-- <gap:plugin name="org.apache.cordova.camera" /> -->
     <gap:plugin name="Accelerometer" value="org.apache.cordova.AccelListener" />
     <gap:plugin name="Camera" value="org.apache.cordova.CameraLauncher" />
     <gap:plugin name="Capture" value="org.apache.cordova.Capture"/>
@@ -69,7 +69,7 @@
     <gap:plugin name="Notification" value="org.apache.cordova.Notification"/>
     <gap:plugin name="SplashScreen" value="org.apache.cordova.SplashScreen"/>
     <gap:plugin name="Storage" value="org.apache.cordova.Storage" />
-
+    -->
 
     <access origin="http://127.0.0.1*" />
     <content src="index.html" />

@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec470239-286b-4d07-aed9-a718b479479a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/general.js" afterPath="$PROJECT_DIR$/www/js/general.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="database.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384452599841" ignored="false" />
-    <file path="/Dummy.txt" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384507768857" ignored="false" />
+    <file path="/Dummy.txt" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384508018833" ignored="false" />
     <file path="/config.xml" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384507732576" ignored="false" />
     <file path="/AndroidManifest.xml" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1383389894293" ignored="false" />
     <file path="$PROJECT_DIR$/../teeeeeeeest/www/index.html" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384452369439" ignored="false" />
@@ -16,6 +16,7 @@
     <file path="$PROJECT_DIR$/platforms/android/bin/AndroidManifest.xml" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384505804563" ignored="false" />
     <file path="$PROJECT_DIR$/platforms/android/res/xml/config.xml" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384505804563" ignored="false" />
     <file path="/.gitignore" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384507251121" ignored="false" />
+    <file path="/general.js" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384508311071" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +36,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="50" selection-start="475" selection-end="475" vertical-scroll-proportion="0.3203769">
+            <state line="16" column="50" selection-start="475" selection-end="475" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="general.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/js/general.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="0" selection-start="152" selection-end="152" vertical-scroll-proportion="0.06007067">
               <folding />
             </state>
           </provider>
@@ -68,6 +78,7 @@
         <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/www/config.xml" />
+        <option value="$PROJECT_DIR$/www/js/general.js" />
       </list>
     </option>
   </component>
@@ -132,6 +143,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PG_Hardware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PG_Hardware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -233,7 +262,11 @@
       <created>1384507774708</created>
       <updated>1384507774708</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="3.0.0 ausprobieren.">
+      <created>1384508025314</created>
+      <updated>1384508025314</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -321,7 +354,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="config Copy von &quot;pgb example camera&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="3.0.0 ausprobieren." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -344,6 +377,7 @@
     <MESSAGE value="Alles raus außer www ordner." />
     <MESSAGE value="Config Änderungen." />
     <MESSAGE value="config Copy von &quot;pgb example camera&quot;." />
+    <MESSAGE value="3.0.0 ausprobieren." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -391,7 +425,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="50" selection-start="475" selection-end="475" vertical-scroll-proportion="0.3203769">
+        <state line="16" column="50" selection-start="475" selection-end="475" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/general.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="152" selection-end="152" vertical-scroll-proportion="0.06007067">
           <folding />
         </state>
       </provider>

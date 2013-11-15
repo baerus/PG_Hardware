@@ -7,7 +7,7 @@
     <name>PG_Hardware</name>
 
     <description>
-        Hardware Access (camera) 2.
+        Hardware Access (camera) 3.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
@@ -16,5 +16,5 @@
 
     <preference name="phonegap-version" value="3.1.0" />
 
-    <gap:plugin name="org.apache.cordova.core.camera" />
+    <gap:plugin name="org.apache.cordova.camera" />
 </widget>

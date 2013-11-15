@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec470239-286b-4d07-aed9-a718b479479a" name="Default" comment="">
+    <list default="true" id="ec470239-286b-4d07-aed9-a718b479479a" name="Default" comment="Jetzt ohne &quot;core&quot;.&#10;(Mit klappte es dennoch schon!).">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="database.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384509089655" ignored="false" />
-    <file path="/Dummy.txt" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384509101881" ignored="false" />
+    <file path="/Dummy.txt" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384509496635" ignored="false" />
     <file path="/config.xml" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384507732576" ignored="false" />
     <file path="/AndroidManifest.xml" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1383389894293" ignored="false" />
     <file path="$PROJECT_DIR$/../teeeeeeeest/www/index.html" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384452369439" ignored="false" />
@@ -48,7 +48,7 @@
       <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="50" selection-start="477" selection-end="477" vertical-scroll-proportion="0.3203769">
+            <state line="9" column="34" selection-start="302" selection-end="302" vertical-scroll-proportion="0.18021202">
               <folding />
             </state>
           </provider>
@@ -287,7 +287,11 @@
       <created>1384509105853</created>
       <updated>1384509105853</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Wieder auf 3.1.0 hoch (ohne das &quot;core&quot; weg).">
+      <created>1384509309989</created>
+      <updated>1384509309989</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -375,7 +379,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Einbinden der General JS ..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Jetzt ohne &quot;core&quot;.&#10;(Mit klappte es dennoch schon!)." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -402,6 +406,8 @@
     <MESSAGE value="Änderungen am Photo Code wie im Example." />
     <MESSAGE value="2" />
     <MESSAGE value="Einbinden der General JS ..." />
+    <MESSAGE value="Wieder auf 3.1.0 hoch (ohne das &quot;core&quot; weg)." />
+    <MESSAGE value="Jetzt ohne &quot;core&quot;.&#10;(Mit klappte es dennoch schon!)." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -456,7 +462,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="50" selection-start="477" selection-end="477" vertical-scroll-proportion="0.3203769">
+        <state line="9" column="34" selection-start="302" selection-end="302" vertical-scroll-proportion="0.18021202">
           <folding />
         </state>
       </provider>

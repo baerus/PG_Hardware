@@ -8,7 +8,7 @@
     <ignored path="database.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384452599841" ignored="false" />
-    <file path="/Dummy.txt" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384507442192" ignored="false" />
+    <file path="/Dummy.txt" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384507768857" ignored="false" />
     <file path="/config.xml" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384507732576" ignored="false" />
     <file path="/AndroidManifest.xml" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1383389894293" ignored="false" />
     <file path="$PROJECT_DIR$/../teeeeeeeest/www/index.html" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384452369439" ignored="false" />
@@ -38,7 +38,7 @@
       <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="56" selection-start="539" selection-end="539" vertical-scroll-proportion="0.36042404">
+            <state line="16" column="50" selection-start="475" selection-end="475" vertical-scroll-proportion="0.3203769">
               <folding />
             </state>
           </provider>
@@ -229,7 +229,11 @@
       <created>1384507445140</created>
       <updated>1384507445140</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="config Copy von &quot;pgb example camera&quot;.">
+      <created>1384507774708</created>
+      <updated>1384507774708</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -317,7 +321,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Config Änderungen." />
+    <option name="LAST_COMMIT_MESSAGE" value="config Copy von &quot;pgb example camera&quot;." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -339,6 +343,7 @@
     <MESSAGE value="gitignore mit platforms" />
     <MESSAGE value="Alles raus außer www ordner." />
     <MESSAGE value="Config Änderungen." />
+    <MESSAGE value="config Copy von &quot;pgb example camera&quot;." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -386,7 +391,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="56" selection-start="539" selection-end="539" vertical-scroll-proportion="0.36042404">
+        <state line="16" column="50" selection-start="475" selection-end="475" vertical-scroll-proportion="0.3203769">
           <folding />
         </state>
       </provider>

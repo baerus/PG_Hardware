@@ -1,4 +1,5 @@
 D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\classes.dex : \
+D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\classes\com\phonegap\helloworld\PG_Databse.class \
 D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\classes\de\mfischer\database\PG_Databse.class \
 D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\classes\de\mfischer\hardware\BuildConfig.class \
 D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\classes\de\mfischer\hardware\PG_Databse.class \

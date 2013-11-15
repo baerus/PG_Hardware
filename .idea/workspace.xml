@@ -2,153 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec470239-286b-4d07-aed9-a718b479479a" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\.cordova\config.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\config.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\cordova.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\cordova_plugins.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\css\index.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\img\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\js\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\phonegap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\icon\android\icon-36-ldpi.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\icon\android\icon-48-mdpi.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\icon\android\icon-72-hdpi.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\icon\android\icon-96-xhdpi.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\icon\bada-wac\icon-48-type5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\icon\bada-wac\icon-50-type3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\icon\bada-wac\icon-80-type4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\icon\bada\icon-128.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\icon\blackberry\icon-80.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\icon\ios\icon-57-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\icon\ios\icon-57.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\icon\ios\icon-72-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\icon\ios\icon-72.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\icon\tizen\icon-128.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\icon\webos\icon-64.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\icon\windows-phone\icon-173-tile.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\icon\windows-phone\icon-48.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\icon\windows-phone\icon-62-tile.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\android\screen-hdpi-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\android\screen-hdpi-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\android\screen-ldpi-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\android\screen-ldpi-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\android\screen-mdpi-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\android\screen-mdpi-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\android\screen-xhdpi-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\android\screen-xhdpi-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\bada-wac\screen-type3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\bada-wac\screen-type4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\bada-wac\screen-type5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\bada\screen-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\blackberry\screen-225.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\ios\screen-ipad-landscape-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\ios\screen-ipad-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\ios\screen-ipad-portrait-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\ios\screen-ipad-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\ios\screen-iphone-landscape-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\ios\screen-iphone-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\ios\screen-iphone-portrait-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\ios\screen-iphone-portrait-568h-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\ios\screen-iphone-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\tizen\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\webos\screen-64.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\res\screen\windows-phone\screen-portrait.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\spec.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\spec\helper.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\spec\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\spec\lib\jasmine-1.2.0\MIT.LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\spec\lib\jasmine-1.2.0\jasmine-html.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\spec\lib\jasmine-1.2.0\jasmine.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\assets\www\spec\lib\jasmine-1.2.0\jasmine.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\AndroidManifest.xml.d" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\PG_Databse-debug-unaligned.apk" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\PG_Databse-debug-unaligned.apk.d" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\PG_Databse-debug.apk" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\PG_Databse.ap_" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\PG_Databse.ap_.d" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\build.prop" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\classes.dex.d" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\classes\de\mfischer\database\PG_Databse.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\dexedLibs\cordova-3.1.0-7fe03958817bef401bc817e3ea512a57.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\jarlist.cache" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\proguard.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\res\drawable-hdpi\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\res\drawable-ldpi\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\res\drawable-mdpi\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\res\drawable-xhdpi\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\bin\res\drawable\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\build.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\build" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\build.bat" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\check_reqs" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\clean" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\clean.bat" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\lib\appinfo.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\lib\build.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\lib\check_reqs.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\lib\clean.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\lib\device.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\lib\emulator.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\lib\install-device" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\lib\install-device.bat" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\lib\install-emulator" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\lib\install-emulator.bat" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\lib\list-devices" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\lib\list-devices.bat" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\lib\list-emulator-images" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\lib\list-emulator-images.bat" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\lib\list-started-emulators" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\lib\list-started-emulators.bat" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\lib\log.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\lib\run.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\lib\start-emulator" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\lib\start-emulator.bat" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\log" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\log.bat" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\node_modules\shelljs\.documentup.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\node_modules\shelljs\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\node_modules\shelljs\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\node_modules\shelljs\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\node_modules\shelljs\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\node_modules\shelljs\bin\shjs" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\node_modules\shelljs\global.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\node_modules\shelljs\jshint.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\node_modules\shelljs\make.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\node_modules\shelljs\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\node_modules\shelljs\scripts\docs.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\node_modules\shelljs\scripts\run-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\node_modules\shelljs\shell.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\run" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\run.bat" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\version" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\cordova\version.bat" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\gen\R.java.d" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\libs\cordova-3.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\local.properties" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\project.properties" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\res\drawable-hdpi\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\res\drawable-ldpi\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\res\drawable-mdpi\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\res\drawable-xhdpi\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\res\drawable\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\res\values\strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\res\xml\config.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\platforms\android\src\de\mfischer\database\PG_Databse.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\ProgProjects\ActualSoftware\Prototypes\PhoneGap\PG_Hardware\plugins\android.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="database.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384452599841" ignored="false" />
-    <file path="/Dummy.txt" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384507010196" ignored="false" />
-    <file path="/config.xml" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384504792333" ignored="false" />
+    <file path="/Dummy.txt" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384507279630" ignored="false" />
+    <file path="/config.xml" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384507418761" ignored="false" />
     <file path="/AndroidManifest.xml" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1383389894293" ignored="false" />
     <file path="$PROJECT_DIR$/../teeeeeeeest/www/index.html" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384452369439" ignored="false" />
     <file path="$PROJECT_DIR$/../test2/test2/www/index.html" changelist="ec470239-286b-4d07-aed9-a718b479479a" time="1384452599841" ignored="false" />
@@ -174,28 +35,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="37" selection-start="923" selection-end="923" vertical-scroll-proportion="-14.384615">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="48" selection-start="884" selection-end="884" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="8" selection-start="36" selection-end="36" vertical-scroll-proportion="0.06007067">
+            <state line="53" column="51" selection-start="3453" selection-end="3453" vertical-scroll-proportion="0.79976445">
               <folding />
             </state>
           </provider>
@@ -223,8 +66,8 @@
         <option value="$PROJECT_DIR$/platforms/android/res/xml/config.xml" />
         <option value="$PROJECT_DIR$/platforms/android/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/www/index.html" />
-        <option value="$PROJECT_DIR$/www/config.xml" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/www/config.xml" />
       </list>
     </option>
   </component>
@@ -275,6 +118,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="PG_Hardware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PG_Hardware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PG_Hardware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -364,7 +221,11 @@
       <created>1384507015494</created>
       <updated>1384507015494</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Alles raus außer www ordner.">
+      <created>1384507282899</created>
+      <updated>1384507282899</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -452,7 +313,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore mit platforms" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alles raus außer www ordner." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -472,6 +333,7 @@
     <MESSAGE value="config wieder" />
     <MESSAGE value="äääh kp" />
     <MESSAGE value="gitignore mit platforms" />
+    <MESSAGE value="Alles raus außer www ordner." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -505,14 +367,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="37" selection-start="923" selection-end="923" vertical-scroll-proportion="-14.384615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="48" selection-start="884" selection-end="884" vertical-scroll-proportion="0.0">
+        <state line="22" column="37" selection-start="923" selection-end="923" vertical-scroll-proportion="0.454435">
           <folding />
         </state>
       </provider>
@@ -520,6 +375,13 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="8" selection-start="36" selection-end="36" vertical-scroll-proportion="0.06007067">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="51" selection-start="3453" selection-end="3453" vertical-scroll-proportion="0.79976445">
           <folding />
         </state>
       </provider>
